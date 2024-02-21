@@ -1,0 +1,27 @@
+{
+    "id": "60AE4E83",
+    "path": "~/R_analysis/Lucy/placental_malaria/placental_malaria/Code/PregnancyAgs_Analysis_Code.R",
+    "project_path": "Code/PregnancyAgs_Analysis_Code.R",
+    "type": "r_source",
+    "hash": "2550860495",
+    "contents": "",
+    "dirty": false,
+    "created": 1708527555242.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "974,2",
+        "scrollLine": "952",
+        "ignored_words": "Boruta\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1708536260,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1708536260502,
+    "read_only": false,
+    "read_only_alternatives": []
+}
